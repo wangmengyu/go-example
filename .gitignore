@@ -1,0 +1,4 @@
+go.mod
+go.sum
+.idea/*
+config/config_mode
