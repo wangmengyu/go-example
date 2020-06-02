@@ -51,6 +51,7 @@ func main() {
 	}
 
 	measure(&r)
+
 	s := circle{
 		radius: 5,
 	}
